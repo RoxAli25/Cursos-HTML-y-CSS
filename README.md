@@ -3,3 +3,4 @@
  - Creando nuevas páginas de HTML
  - Creando un Curriculum
  - Modificando el tamaño de letra, utilizando la medida REM
+ - Adaptando los elementos

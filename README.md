@@ -4,3 +4,4 @@
  - Creando un Curriculum
  - Modificando el tamaño de letra, utilizando la medida REM
  - Adaptando los elementos
+ - Adaptandolo para todo tipo de pantalla, mobile, escritorio

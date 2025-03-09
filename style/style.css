@@ -146,3 +146,25 @@ body{
     font-weight: 400;
 }
 
+@media (max-width: 1200px){ /**Esta variable se usa para ajustar para que sea tanto para mobile como escritorio*/
+
+
+    .header{
+        padding: 10%;
+    }
+
+    .header__menu{
+        justify-content: center;
+    }
+
+
+    .presentacion{
+        flex-direction: column-reverse;
+        padding: 5%;
+    }
+
+    .presentacion__contenido{
+        width: auto;
+    }
+
+}
